@@ -739,6 +739,8 @@ def convert_examples_to_features(examples, label_list, max_seq_length,
 
 
 def main(_):
+  tf.device('/gpu:1')
+
   tf.logging.set_verbosity(tf.logging.INFO)
 
   processors = {
