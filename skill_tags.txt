@@ -1,0 +1,43 @@
+
+--------------------------------------------------------------
+SKILL TAGS
+--------------------------------------------------------------
+LEVELS
+Junior Level
+Mid Level
+Senior Level
+Principal Level
+
+ROLES
+IC Role
+Lead Role
+Manager Role
+Director Role
+Executive Role
+
+FRONT END TECHNOLOGIES
+JavaScript
+JQuery
+Angular
+React
+HTML
+CSS
+
+BACK END TECHNOLOGIES
+C#
+Java
+.NET Core
+.NET
+SQL
+MongoDB
+Redis
+WCF
+
+SCRIPTING
+Python
+
+CONCEPTS
+REST
+Object-oriented programming
+Asynchronous programming
+MVC
