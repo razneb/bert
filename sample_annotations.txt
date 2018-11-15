@@ -1,0 +1,36 @@
+Professional Health Care Network is hiring a full-time Software Developer to help us double the size of our business. Our developers report directly to the CTO and will be critical to us achieving our operational goals over the coming years.  What you’ll be working on  PHCN is building our infrastructure in-house from scratch. We work with the latest technologies and are always interested in the right tool for the job, regardless of platform or stack. Expect to be able to work with React, TypeScript, .NET, .NET Core, Redis, SQL Server, Microsoft Azure, Amazon AWS, and more.  What you’ll be doing  Building workflow management systems (e.g., helping our employees automate themselves)* Building connected services (e.g., integrating with providers like Twilio)** Creating beautiful dashboards for both managers and staff** Understanding and optimizing our processes through data and analytics* What we offer  We’re a small company focused on growth. You’ll be on the ground floor, in a position to influence our future and work directly with our leadership team. Additionally, we offer:  Competitive pay High quality medical, dental, and vision coverage Brand new equipment Private, quiet working environment About you  We’re looking for a smart, eager developer who can learn on their feet and pay attention to the details. We don’t care about your exact experience if you’re the type of person who can learn and adapt quickly.  We’d prefer you to have a BS in Computer Science or a similar technical field.  Job Type: Full-time  Salary: $70,000.00 to $90,000.00 /year
+Mid Level
+IC Role
+Web Developer (front end)
+Web Developer (back end)
+Relational Databases
+Cloud Computing
+Object-Oriented Programming
+Distributed Systems
+.NET Core
+
+Company Description  Multus Medical is a technology startup based in Arizona and focused on medical imaging services. The company partners with imaging centers, doctors, and healthcare providers to enhance patient experience using innovative machine learning solutions. Multus Medical has an existing client base that it leverages to accelerate its product development and business processes.  Job Brief  As a Software developer, you will be part of a product team developing medical imaging solutions. You will be responsible for all stages of product life cycle which includes understanding requirements, architecture, development, validation and deployment.  Required Skills  At least 6 years of experience with programming JavaScript. Current use of JavaScript ES7. WebGL Microsoft Azure .NET framework React Redux or equivalent state manager Expert understanding of the JavaScript event loop and asynchronous concepts. Understanding of functional programming concepts. GIT source control. Preferred Skills  Experience with the following technologies:  System based experience using Docker. Nodejs Electron REST based APIs Webpack Express Threejs Babel CouchDB Some C++ experience using Nodejs native bindings. Vector and matrix math. Continuous integration. Job Type: Full Time  Salary: compensation commensurate with experience.
+Senior Level
+IC Role
+Web Developer (Front End)
+Asnynchronous Programming
+Machine Learning
+Computer Graphics
+Version Control
+JavaScript ES7
+Continuous Integration
+
+Software Engineer will be responsible for writing code in various languages, like Angular, .Net, and SQL. The role is to build high quality, innovative, and fully performing software that complies with coding standards and technical design.  POSITION RESPONSIBILITIES  We are looking for a software engineer who is passionate about full life cycle software development. We need someone who enjoys programming well-designed, testable, and efficient code. Software Engineer will be responsible for writing code in various languages, like Angular, .Net, and SQL. The role is to build high quality, innovative, and fully performing software that complies with coding standards and technical design.   KNOWLEDGE | SKILLS | ABILITIES Able to write well-designed and testable code Able to execute full software development life cycle Able to troubleshoot, debug, and upgrade existing systems Can comply with project plans and standards Able to use version control software such as TFS, VSTS, GIT Possess the following: working knowledge of object-oriented design and development skills knowledge of Angular design patterns and related technologies like WebPack, Polyfills, Bootstrap, etc. knowledge pf JSON, XML, REST, RDBMS, MVC frameworks, JavaScript, JQuery, JSON knowledge of C# using Visual Studio using MVC and Entity Framework knowledge with Scrum/Agile development methodologies   EXPERIENCE  Experience with technologies necessary for Internet applications: HTTP, TCP/IP, POP/SMTP, etc. Experience developing services using protocols such as REST, SOAP and API design for extensibility and portability Experience writing SQL queries for SQL Server or another relational database Experience with Javascript frameworks like JQuery, Knockout, Angular  EDUCATION | CERTIFICATIONS Bachelor’s Degree in appropriate field of study or equivalent work experience. Certifications in the appropriate technologies.   BENEFITS  We offer a competitive compensation and benefits package including medical, dental, vision, 401(k), flexible spending, short-term and long-term disability insurance, life insurance, long-term care, education assistance and paid time off, including paid parental leave and a birthday holiday.   IFG Companies is an equal opportunity employer committed to a diverse workforce. M/F/D/V  INDH123
+Mid Level
+IC Role
+Web Dev (Front End)
+Web Dev (Back End)
+Version Control
+.NET
+Object-oriented programming
+Design Patterns
+Entity Framework
+Agile Development
+Relational Databases
+JavaScript Frameworks
+
